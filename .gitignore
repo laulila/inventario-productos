@@ -1,0 +1,5 @@
+venv_inventario/
+__pycache__/
+*.py[cod]
+.vscode/
+.idea/
